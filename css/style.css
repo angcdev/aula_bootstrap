@@ -1,0 +1,39 @@
+.back{
+    background-color: rgb(56, 56, 56);
+    border: 1px solid #ffffff;
+
+    
+}
+
+.back:focus{
+    background-color: rgb(85, 84, 84);
+    color: #ffffff;
+}
+
+.btnCss{
+    background-color: rgb(56, 56, 56);
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+.back::placeholder{
+    color: #ffffff;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+section{
+    background-color: rgb(243, 243, 243);
+}
+
+#parceiros{
+    background-color: rgb(206, 206, 206);
+
+}
+
+.footer-color{
+    color: white;
+}
